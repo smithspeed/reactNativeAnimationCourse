@@ -1,3 +1,3 @@
 # reactNativeAnimationCourse
 
-Here is all animation course
+Here is all animation courses
